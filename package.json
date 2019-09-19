@@ -1,6 +1,5 @@
 {
   "name": "token-creator",
-  "homepage": "https://polymathnetwork.github.io/token-creator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
